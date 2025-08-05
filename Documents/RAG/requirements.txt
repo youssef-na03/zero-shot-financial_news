@@ -1,0 +1,18 @@
+#FastAPI and Server
+fastapi
+uvicorn
+
+#PDF Parsing
+PyMuPDF
+
+#Text Processing and Embeddings
+langchain
+sentence-transformers
+numpy
+
+#Vector Store / Retriever
+faiss-cpu
+
+#Language Model and Generation
+transformers
+torch
