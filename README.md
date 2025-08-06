@@ -18,7 +18,9 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Framework](https://img.shields.io/badge/transformers-HuggingFace-orange)
 ![Model](https://img.shields.io/badge/model-BART--MNLI-yellow)
-![Status](https://img.shields.io/badge/status-active-success)## 🛠️ Setup & Installation
+![Status](https://img.shields.io/badge/status-active-success)
+
+## 🛠️ Setup & Installation
 
 Follow these steps to get the project up and running on your local machine.
 
